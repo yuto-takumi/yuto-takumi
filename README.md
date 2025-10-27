@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**yuto-takumi/yuto-takumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Yuto Takumi
+role: Full Stack Developer
+interests:
+  Full Stack Development
+  - Frontend: React.js, Next.js, TypeScript, TailwindCSS
+  - Backend: Node.js, Express.js, Nest.js, GraphQL
+  - Databases: PostgreSQL, MongoDB, Firebase
+  - DevOps: Docker, AWS, Vercel
+  - Version Control: Git, GitHub, CI/CD
 
-Here are some ideas to get you started:
+  Web3 & Blockchain 
+   - Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
+   - DeFi & Trading: CEX, DEX, Automated Market Makers (AMM), Trading Bots
+   - Tools: Ethers.js, Web3.js, Moralis, IPFS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```

@@ -8,7 +8,7 @@ interests:
   - Frontend: React.js, Next.js, TypeScript, TailwindCSS
   - Backend: Node.js, Express.js, Nest.js, GraphQL
   - Databases: PostgreSQL, MongoDB, Firebase
-  - DevOps: Docker, AWS, Vercel
+  - DevOps: Docker, AWS, Vercel, Railway
   - Version Control: Git, GitHub, CI/CD
 
   Web3 & Blockchain 

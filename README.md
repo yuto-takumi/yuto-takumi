@@ -2,7 +2,7 @@
 
 ```yaml
 Name: Yuto Takumi
-Role: Full Stack Developer
+Role: Blockchain & Full Stack Developer
 Interests:
   Full Stack Development
   - Frontend: React.js, Next.js, Vue.js, Svelte, shadcn/ui, React Native, Expo, Flutter, Chrome Extension
@@ -38,7 +38,7 @@ Interests:
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" /><br>Redux
+      <img src="https://skillicons.dev/icons?i=vuejs" width="40" height="40" alt="Next.js" /><br>Vue.js
     </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
@@ -83,7 +83,7 @@ Interests:
       <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" /><br>Three.js
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" /><br>D3.js
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Etherium.js" /><br>Laravel
     </td>
     
   </tr>

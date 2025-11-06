@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ```yaml
-name: Yuto Takumi
-role: Full Stack Developer
-interests:
+Name: Yuto Takumi
+Role: Full Stack Developer
+Interests:
   Full Stack Development
-  - Frontend: React.js, Next.js, Vue.js, Svelte, shadcn/ui, React Native, Expo, Flutter, Chrome Extension TypeScript, TailwindCSS
+  - Frontend: React.js, Next.js, Vue.js, Svelte, shadcn/ui, React Native, Expo, Flutter, Chrome Extension
+              TypeScript, TailwindCSS
   - Backend: Node.js, Express.js, GraphQL, Python, Nest.js, Django, FastAPI, Laravel, Prisma
   - Databases: PostgreSQL, MySQL, MongoDB, Firebase, Supabase
   - DevOps: Docker, AWS, Vercel, Railway

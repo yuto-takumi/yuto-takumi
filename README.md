@@ -26,7 +26,7 @@ Interests:
 <h1 align="center">Welcome to my corner of GitHub</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full+stack+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Blockchain+developer&lines=Full+stack+developer" alt="Typing SVG" />
 </p>
 <p align="center">  
     <a href="https://github.com/bast-top-dev?tab=achievements"><img src="https://github-trophies.vercel.app/?username=bast-top-dev&&theme=onestar&no-frame=true&column=6&row=2" alt="bast-top-dev&"/></a>
